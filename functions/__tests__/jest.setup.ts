@@ -1,1 +1,1 @@
-global.config = () => require('../src/config').default
+global.config = () => require('../../src/config').default
